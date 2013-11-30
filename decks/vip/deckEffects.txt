@@ -1,0 +1,33 @@
+BORDER=ROUNDED,#000000,0.2
+DPI=600
+CARDSIZE=6,9
+MARGINS=1,1,1,1
+
+global variables
+linkmulti=num
+link="effects.txt"
+
+[all]="1-{(id)}"
+[background]=#D0D0D0
+[ink]=#000000
+[col_effect]=#F7D358
+
+image=[all],"textures/bg.png",0,0,100%,100%,0,T
+
+roundrect=[all],5%,3%,70%,10%,[ink],[col_effect],0.08
+font=century gothic,12,,[ink],[col_effect]
+text=[all],[name],7%,4%,67%,8%,center
+
+roundrect=[all], 5%,15%,90%,40%,[ink],#AAAAAA,0.08
+save=1,"overlay.bmp",5%,15%,90%,40%
+image=[all],[illustration],5%,15%,90%,40%,0,P
+chromakey=#AAAAAA
+image=[all],"overlay.bmp",5%,15%,90%,40%,0,T
+chromakey = topleft
+
+roundrect=[all],5%,57%,90%,38%,[ink],[col_effect],0.08
+font=century gothic,10,,[ink],[col_effect]
+text=[all],[effect],8%,60%,80%,32%,center,wordwrap
+
+font=century gothic,5,,[ink], [col_effect]
+text=[all],[id],85%,95.65%,3%,3%,left,wordwrap
