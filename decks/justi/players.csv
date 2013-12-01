@@ -1,0 +1,8 @@
+id, num, name, flavor,abilities, skill, illustration, cost1, cost2, cost3, cost4
+1,4,"Martin","Kdyby mìli lidi talent!", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+2,4,"Jana","..."!?", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+3,3,"Lukáš","A ten jak tam pøišel je tam úplnì zbyteènej", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+4,3,"Láïa","Jsem hrad z písku ve kterém bydlí.", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+5,4,"Nikola","Tak to nebude o èem hrát.", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+6,4,"Jirka","Vláda byznysu!", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+7,3,"Ondra","", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"

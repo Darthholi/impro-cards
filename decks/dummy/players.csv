@@ -1,0 +1,5 @@
+id, num, name, abilities, skill, illustration, cost1, cost2, cost3, cost4
+1,3,"Franta", "Když se Franta účastní kategorie, lízni si 1 kartu.",  "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
+2,3,"Pepa", "Když se Pepa účastní kategorie, můžeš změnit primární dovednost kategorie.", "images/skill.png","illus/card01.jpg", "2", "2", "2", "2"
+3,3,"Metoděj", "Můžeš zahodit jednu libovolnou kartu efektu: Metoděj dostane +2 k libovolné dovednosti.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
+4,3,"Gertrůda", "Pokud je Gertrůda prvním improvizátorem v této kategorii, každý hráč může zahrát jen jednoho improvizátora.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"

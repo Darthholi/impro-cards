@@ -1,0 +1,11 @@
+id, num, name, flavor,abilities, skill, illustration, cost1, cost2, cost3, cost4
+1,2,"David","...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+2,2,"Honza","},{--...zatíit mùj racionální mozek...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+3,2,"Anièka","Pouze doma pøed zrcadlem...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+4,2,"Šaly","Pokud zrovna neplavu...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+5,3,"Medvìd","Krátkı, hutnı, vtipnı ;)", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+6,3,"Joe","Doktor hluk! Doktor hluk! Doktor hluk...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+7,2,"Tomáš","},{--...divadlu, ale takovému, které víc bolí...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+8,3,"Simi","Protoe Bafni, to je impropunk!", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+9,2,"Jeseter","Moje šupiny pøináší štìstí!", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+10,3,"Káa","Kudy chodím, šíøím impropunk.", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"

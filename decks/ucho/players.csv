@@ -1,0 +1,10 @@
+id, num, name, flavor,abilities, skill, illustration, cost1, cost2, cost3, cost4
+1,3,"Kuba","Mì tìší, já jsem PacMan!", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+2,3,"Eva","WoooHOOO", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+3,3,"Michal","Super!", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+4,3,"Ali","To zní dobøe, možná pøijdu.", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+5,3,"Johnny","...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+6,3,"Jitka","...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+7,2,"Viki","...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+8,2,"Pája","...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
+9,2,"Iva","...", "","images/skill.png",","illus/card01.jpg", "3", "2", "2", "1"
