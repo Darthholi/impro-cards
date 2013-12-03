@@ -1,4 +1,5 @@
-id, num, name, effect, illustration
-1,3,"Netradiční postup", "Prohoď primární a sekundární dovednost potřebnou pro hraní aktuální kategorie.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
-2,3,"Změna", "Podívej se na vrchní kartu balíčku kategorií. Můžeš ji prohodit s právě hranou kategorií.", "images/skill.png","illus/card01.jpg", "2", "2", "2", "2"
-3,3,"Zanedbaný trénink", "Od této chvíle nemůže již nikdo hrát karty efektů v aktuální kategorii.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
+﻿id, num, name, effect, illustration
+
+1,3,"Zálohy", "Pokud toto kolo nevyhraješ, máš příští kolo vyšší limit karet na ruce o dva.", "images/skill.png"
+2,3,"Jinak!", "Ruší efekt zahrané karty.", "images/skill.png"
+3,3,"Ano A!", "Zkopíruje poslední zahraný efekt", "images/skill.png"

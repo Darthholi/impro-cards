@@ -1,4 +1,4 @@
 id, num, name, effect, illustration
-1,3,"NetradiÄnÃ­ postup", "ProhoÄ primÃ¡rnÃ­ a sekundÃ¡rnÃ­ dovednost potÅ™ebnou pro hranÃ­ aktuÃ¡lnÃ­ kategorie.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
-2,3,"ZmÄ›na", "PodÃ­vej se na vrchnÃ­ kartu balÃ­Äku kategoriÃ­. MÅ¯Å¾eÅ¡ ji prohodit s prÃ¡vÄ› hranou kategoriÃ­.", "images/skill.png","illus/card01.jpg", "2", "2", "2", "2"
-3,3,"ZanedbanÃ½ trÃ©nink", "Od tÃ©to chvÃ­le nemÅ¯Å¾e jiÅ¾ nikdo hrÃ¡t karty efektÅ¯ v aktuÃ¡lnÃ­ kategorii.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
+1,3,"Vızva", "+5 k jedné vlastnosti. Mínus jedna za kadou další kartu, kterou zahraješ. Lze zahrát pouze jako první karta v daném kole.", "images/skill.png"
+2,3,"Nìkdy pøíštì", "Smíš zmìnit primární vlastnost kategorie na vlastnost, u které máš nejmenší souèet", "images/skill.png"
+3,3,"Fascinující fakta", "Zmìò primární vlastnost pro kategorii na tu, její máš nejvìtší souèet.", "images/skill.png"

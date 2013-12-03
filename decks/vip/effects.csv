@@ -1,4 +1,4 @@
 id, num, name, effect, illustration
-1,3,"NetradiÄnÃ­ postup", "ProhoÄ primÃ¡rnÃ­ a sekundÃ¡rnÃ­ dovednost potÅ™ebnou pro hranÃ­ aktuÃ¡lnÃ­ kategorie.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
-2,3,"ZmÄ›na", "PodÃ­vej se na vrchnÃ­ kartu balÃ­Äku kategoriÃ­. MÅ¯Å¾eÅ¡ ji prohodit s prÃ¡vÄ› hranou kategoriÃ­.", "images/skill.png","illus/card01.jpg", "2", "2", "2", "2"
-3,3,"ZanedbanÃ½ trÃ©nink", "Od tÃ©to chvÃ­le nemÅ¯Å¾e jiÅ¾ nikdo hrÃ¡t karty efektÅ¯ v aktuÃ¡lnÃ­ kategorii.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
+1,3,"Netradièní postup", "Prohodí primární­ a sekundární­ dovednost potøebnou pro hraní aktuální­ kategorie.", "images/skill.png"
+2,3,"Obdiv", "Vyber libovolného úèinkujícího. Kadı jinı úèinkující, co má vyšší libovolnou vlastnost ji má sníenou na nula.", "images/skill.png","illus/card01.jpg", "2", "2", "2", "2"
+3,3,"Impro o ivot", "+1 ke všem vlastnostem. Vyber hráèe. pokud vyhraje tohle kolo, dáš si tuto kartu do balíèku skóre. Pokud vyhraješ ty, nebereš si odmìnu.", "images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
