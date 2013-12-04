@@ -1,8 +1,8 @@
 id, num, name, flavor,abilities, skill, illustration, cost1, cost2, cost3, cost4
 1,4,"Martin","Kdyby mìli lidi talent!", "","images/skill.png","illus/card01.jpg", "1", "2", "2", "3"
-2,4,"Jana","...", "Muzes zmenit hlavni vlastnost kategorie na vlastnost, ve ktere mas ted nejnizsi soucet.","images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
+2,4,"Jana","...", "Mùžeš zmìnit hlavní vlastnost kategorie na vlastnost, ve které máš teï nejnižší souèet.","images/skill.png","illus/card01.jpg", "3", "2", "2", "1"
 3,3,"Lukáš","A ten jak tam pøišel je tam úplnì zbyteènej", "","images/skill.png","illus/card01.jpg", "2", "4", "1", "1"
-4,3,"Láïa","Jsem hrad z písku ve kterém bydlí.", "Koncis li hru s prave jednou touto kartou na ruce, mas vyherni bod navic.","images/skill.png","illus/card01.jpg", "1", "1", "4", "2"
+4,3,"Láïa","Jsem hrad z písku ve kterém bydlí.", "Konèíš-li hru s právì jednou touto kartou na ruce, máš výherní bod navíc.","images/skill.png","illus/card01.jpg", "1", "1", "4", "2"
 5,4,"Nikola","Tak to nebude o èem hrát.", "","images/skill.png","illus/card01.jpg", "1", "2", "4", "1"
 6,4,"Jirka","Vláda byznysu!", "","images/skill.png","illus/card01.jpg", "1", "4", "2", "1"
-7,3,"Ondra","...", "Pokud nevyhrajes toto kolo, zustava vylozeny do dalsi kategorie. Jen 1x.","images/skill.png","illus/card01.jpg", "2", "2", "2", "2"
+7,3,"Ondra","...", "Pokud nevyhraješ toto kolo, zùstává vyložený do další kategorie. Jen 1x.","images/skill.png","illus/card01.jpg", "2", "2", "2", "2"

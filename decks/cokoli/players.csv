@@ -1,5 +1,5 @@
 id, num, name, flavor,abilities, skill, illustration, cost1, cost2, cost3, cost4
-1,2,"Trubus","Nechcete èokoládù?", "Smíš zamíchat a zamìnit lízací balíèek a odhazovací balíèek","images/skill.png","illus/card01.jpg", "1", "2", "2", "3"
+1,2,"Trubus","Nechcete èokoládù?", "Pøi zahrání této karty zamíchej a zamìò lízací balíèek a odhazovací balíèek libovolného hráèe.","images/skill.png","illus/card01.jpg", "1", "2", "2", "3"
 2,2,"Martin","Babièka nesla døevo v rukou, protože nemìla nohy.", "Smíš si líznout až dvì karty. Za každou máš pøíští kolo -1 k vlastnostem.","images/skill.png","illus/card01.jpg", "2", "1", "2", "3"
 3,2,"Jiøí","To v americe...", "","images/skill.png","illus/card01.jpg", "2", "2", "1", "3"
 4,2,"Holi","Volal nìkdo hasièe?", "","images/skill.png","illus/card01.jpg", "1", "2", "3", "2"

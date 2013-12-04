@@ -6,7 +6,7 @@ id, num, name, flavor,abilities, skill, illustration, cost1, cost2, cost3, cost4
 5,2,"Pája","Podívej jak nám tu umírají ovce!", "","images/skill.png","illus/card01.jpg", "4", "1", "2", "1"
 6,2,"Koumes","Zbyteènì sprostá slova.", "","images/skill.png","illus/card01.jpg", "1", "2", "4", "1"
 7,2,"Lily","A jak mi to øíkáš? To je strašnì roztomilý.", "","images/skill.png","illus/card01.jpg", "2", "1", "4", "1"
-8,2,"Kapík","Žádný rum, žádná loïka!", "Všechny ètyøkové vlastnosti se poèítají pouze za tøi.","images/skill.png","illus/card01.jpg", "1", "4", "1", "2"
+8,2,"Kapík","Žádný rum, žádná loïka!", "Všechny ètyøkové vlastnosti se poèítají pouze za tøi. Vyjma Kapíkovy vlastnosti.","images/skill.png","illus/card01.jpg", "1", "4", "1", "2"
 9,2,"Tetris","A já si øíkam, jakej že to má smysl?", "","images/skill.png","illus/card01.jpg", "1", "4", "2", "1"
 10,2,"Lex","Komu vloèka, toho èert.", "","images/skill.png","illus/card01.jpg", "2", "4", "1", "1"
 11,2,"Kája","Tak já už to poèítam na desítky, žejo.", "","images/skill.png","illus/card01.jpg", "4", "1", "1", "2"

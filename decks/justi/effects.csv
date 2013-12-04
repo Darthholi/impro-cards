@@ -1,4 +1,4 @@
 id, num, name, effect, illustration
 1,3,"Call of duty", "Najdi libovolnoou kartu v odhazovacím balíèku a dej si ji na ruku.", "images/skill.png"
 2,3,"Pointa", "Pøíští kolo máš bonus ke všem vlastnostem rovný poètu zahraných karet vítìzného hráèe.", "images/skill.png"
-3,3,"Odplata", "Prohraješ li toto kolo, bereš si zahrané karty zpìt na ruku.", "images/skill.png"
+3,3,"Odplata", "Prohraješ li toto kolo, bereš si zahrané karty -vyjma této- zpìt na ruku (nad limit pøíštího kola).", "images/skill.png"
